@@ -37,5 +37,28 @@ After hearing what he had to say, I felt more confident in the design theme that
 
 ## Accessibility Check
 
+![3](3.png)
+My primary text color passes the test
+
+![4](4.png)
+My secondary text color did not, for future iterations I will make this text darker
+
 ## Design System
 ![designsystem](designsystem.jpg)
+
+### Logo Redesign
+For the logo redesign, I wanted to create something simple and modern while also respecting the original design. The old design is actually very intuitive, it is a PC case being taken apart. For my redesign, I wanted to focus on creating a memorable silhouette. Additionally, I wanted this logo to easily fit color changes and different background colors. The current logo's complexity makes it difficult to match with different color schemes.
+
+The new logo makes use of negative space to replace the gold block on the old logo. I also removed a part of the P in PartPicker to match. Finally, I removed "PC" from the brand name as it is a bit redundant and makes the name unnecessarily long. 
+
+### Typography
+My font is MADE Evolve Sans, a clean san serif with Bold, Medium, Regular, and Light versions. The font is easy on the eyes and very versatile. The Bold is great for titles while the Regular is perfect for paragraph text. Title fonts in my app are 30pt and paragraph is 16pt. Smaller detailed text such as prices for parts ar 12pt. 
+
+### Colors
+I wanted to keep the colors very simple and almost monochrome. Black gives the impression of luxury and quality, which is what I want my users to feel when using the app and assembling their PC. A bright blue was chosen as an accent color, but I have yet to find subtle ways to work it into the UI design. The bright green was chosen as the "Compatibility" color. In future screens, I will use this color to show that all the parts are compatible together. 
+
+### Layout 
+The layout of this app is designed for vertical scrolling. The spacing between most text and images is 15 pixels. 
+
+### Other Notes
+On the log in screen, I decided to use ">" as they represent the start of a line in the console. The portion of the PC building screen where all the parts are listed vertically was inspired by Robinhood app's vertical stock listings. 
