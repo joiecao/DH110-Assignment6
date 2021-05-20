@@ -63,9 +63,13 @@ The layout of this app is designed for vertical scrolling. The spacing between m
 ### Other Notes
 On the log in screen, I decided to use ">" as they represent the start of a line in the console. The portion of the PC building screen where all the parts are listed vertically was inspired by Robinhood app's vertical stock listings. 
 
-## Interactive Prototype 
+## [Interactive Prototype](https://xd.adobe.com/view/3df70887-1d67-4146-8e64-006b8dbb832d-68a4/)
+2 tasks:
+1. Experience/Personalization Quiz
+2. Add/Search Component (CPU)
 
 ## Wireflow Diagram
+
 
 ## Cognititve Walkthrough 
 
