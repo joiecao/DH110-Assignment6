@@ -67,10 +67,28 @@ On the log in screen, I decided to use ">" as they represent the start of a line
 2 tasks:
 1. Experience/Personalization Quiz
 2. Add/Search Component (CPU)
+Notes: I made edits to this design AFTER today's group review
 
 ## Wireflow Diagram
-
+![wireframe](wireframe.png)
 
 ## Cognititve Walkthrough 
+[Video](https://youtu.be/7jr7z9i8BUQ)
+
+### Written feedback
+"Starting all the way from the login screen, all of the decision making of what I had to press to achieve a certain result in the app was very easy. I was never really stuck or confused on what to press if I wanted to do something.
+
+The clean design made everything very apparent and intuitive. For example, when I wanted to go back to a previous page, the back button was very clearly apparent, and I didn't need to think at all to find it. The same went for any other button or tool I had to use.
+
+All of the buttons made a lot of sense to me, there was never anything where I didn't know what would happen if I were to press it. There was one icon that I didn't know the meaning of, but after it was explained to me, it made sense why it was there.
+
+I really liked the progress icons at the bottom when I was answering a series of questions. It helped me stay aware of how far along I was and how many more questions I could expect before I was done."
+
+### Summary of findings
+My user did not recognize the "Compatible" button. I should make the button green and/or add text to make the button's purpose more clear. The user tried to click many features that have not been implimented yet, which is a good sign that my existing buttons are clear. It also means I have a lot more work to do. The back button in the experience quiz did not work, but it has since been fixed. I am glad the user appriciated my progress bar in the experience quiz. 
 
 ## Reflection
+I had a lot of fun with this project. In all honesty, this was the first assignment that made me feel like a real experience designer. My design process actually took much longer than usual. I was not happy with my previous sketches so I went back and redrew them. My new sketches really helped me with the actual designing in XD. 
+Additionally, I decided to do a logo redesign which took more time than I had planned. However, I am very happy with how they turned out. The last thing that set me back was choosing to use XD instead of my comfort software, FramerX. I really wanted to take this opportunity to learn a new program and I'm happy with how familiar I am with XD now. I still felt a bit limited since not all the features in Framer translate to XD, but I'm sure as I learn more with time. 
+
+If i could change something about my current design, it would be adding more color. Initially I really enjoyed the black and grey aesthetic, but now that I take a step back I wish I had used more of my blue or green accent color. Next week during revisions, I'll try to experiment with more colors. My prototype testing revealed that I should consider making some of my text bigger. That is something I would like to experiment with as well. But overall, I am very happy with the general look and feel of my app. 
